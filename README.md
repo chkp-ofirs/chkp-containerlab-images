@@ -21,3 +21,4 @@ Upload the image into private/public registry
 REPOSITORY                                 TAG       IMAGE ID       CREATED              SIZE
 boxen_checkpoint_cloudguard                R81.10    8f49bedb70d3   About a minute ago   6.33GB
 
+checkpoint_cloudguard_edge:R80.20.10 = not tested
